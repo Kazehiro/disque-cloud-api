@@ -1,0 +1,11 @@
+.env
+/dist
+/node_modules
+/package-lock.json
+/tmp
+
+# exclude everything
+/public/uploads/*
+
+# exception to the rule
+!/public/uploads/.gitkeep 
